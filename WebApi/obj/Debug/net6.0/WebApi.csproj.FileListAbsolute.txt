@@ -59,3 +59,9 @@ C:\Users\lcarv\source\repos\WebApi\WebApi\obj\Debug\net6.0\ref\WebApi.dll
 C:\Users\lcarv\source\repos\WebApi\WebApi\obj\Debug\net6.0\WebApi.pdb
 C:\Users\lcarv\source\repos\WebApi\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 C:\Users\lcarv\source\repos\WebApi\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\lcarv\source\repos\WebApi\WebApi\bin\Debug\net6.0\WebAPi.Application.dll
+C:\Users\lcarv\source\repos\WebApi\WebApi\bin\Debug\net6.0\WebAPI.Domain.dll
+C:\Users\lcarv\source\repos\WebApi\WebApi\bin\Debug\net6.0\WebAPI.Infra.dll
+C:\Users\lcarv\source\repos\WebApi\WebApi\bin\Debug\net6.0\WebAPi.Application.pdb
+C:\Users\lcarv\source\repos\WebApi\WebApi\bin\Debug\net6.0\WebAPI.Infra.pdb
+C:\Users\lcarv\source\repos\WebApi\WebApi\bin\Debug\net6.0\WebAPI.Domain.pdb

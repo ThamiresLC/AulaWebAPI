@@ -1,0 +1,17 @@
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\bin\Debug\net6.0\WebAPI.Infra.deps.json
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\bin\Debug\net6.0\WebAPI.Infra.runtimeconfig.json
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\bin\Debug\net6.0\WebAPI.Infra.dll
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\bin\Debug\net6.0\WebAPI.Infra.pdb
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\bin\Debug\net6.0\WebAPI.Domain.dll
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\bin\Debug\net6.0\WebAPI.Domain.pdb
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\obj\Debug\net6.0\WebAPI.Infra.csproj.AssemblyReference.cache
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\obj\Debug\net6.0\WebAPI.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\obj\Debug\net6.0\WebAPI.Infra.AssemblyInfoInputs.cache
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\obj\Debug\net6.0\WebAPI.Infra.AssemblyInfo.cs
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\obj\Debug\net6.0\WebAPI.Infra.csproj.CoreCompileInputs.cache
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\obj\Debug\net6.0\WebAPI.Infra.csproj.CopyComplete
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\obj\Debug\net6.0\WebAPI.Infra.dll
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\obj\Debug\net6.0\refint\WebAPI.Infra.dll
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\obj\Debug\net6.0\WebAPI.Infra.pdb
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\obj\Debug\net6.0\WebAPI.Infra.genruntimeconfig.cache
+C:\Users\lcarv\source\repos\WebApi\WebAPI.Infra\obj\Debug\net6.0\ref\WebAPI.Infra.dll
